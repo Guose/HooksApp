@@ -1,0 +1,11 @@
+.container {
+    border: solid 1px black;
+    display: flex;
+    justify-content:space-around;
+    width: 80%;
+
+}
+
+button {
+    width: 200px;
+}
